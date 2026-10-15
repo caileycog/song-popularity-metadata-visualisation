@@ -1,0 +1,11 @@
+artist_type,is_pop,n,percentage
+DJ,FALSE,11,61
+DJ,TRUE,7,39
+Band,FALSE,128,70
+Band,TRUE,54,30
+Duo,FALSE,25,62
+Duo,TRUE,15,38
+Rapper,FALSE,219,77
+Rapper,TRUE,64,23
+Singer,FALSE,543,69
+Singer,TRUE,247,31

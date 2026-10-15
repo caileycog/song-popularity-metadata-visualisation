@@ -1,0 +1,11 @@
+main_genre_broad,song_type,total_songs,pop_count,success_rate
+Country,Collaboration,NA,NA,NA
+Country,Solo,292,119,0.4075342465753425
+Hip Hop,Collaboration,17,3,0.17647058823529413
+Hip Hop,Solo,395,88,0.22278481012658227
+Pop,Collaboration,8,2,0.25
+Pop,Solo,437,140,0.32036613272311215
+R&B,Collaboration,NA,NA,NA
+R&B,Solo,38,7,0.18421052631578946
+Rock,Collaboration,1,0,NA
+Rock,Solo,30,7,0.23333333333333334
